@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 //for output
-// enter phone no as  +917733872456 (only verified no. with twilio trial account for next 30 days)
+// enter phone no as  +917#########6 (only verified no. with twilio trial account for next 30 days)
